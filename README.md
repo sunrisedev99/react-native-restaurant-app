@@ -1,17 +1,5 @@
 # React Native Restaurant App
  It was built by react native.
- 
-## Installation
- <p>install node.js</p>
- <p>npm install</p>
- <p>yarn android</p>
- 
-
-## Prerequisites
-
-- Install and  setup the backend server
- 
-[https://github.com/Codebrahma/RestaurantApp-Express](https://github.com/Codebrahma/RestaurantApp-Express)
 
 ### Installation
 
